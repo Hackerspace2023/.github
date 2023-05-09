@@ -65,7 +65,7 @@ Welcome to **Hacker Space** where anyone interested in contributing and adding v
 
 ### How can I join the DevsInTech GitHub community?
 
-> 1. Go to the issues tab [here](https://github.com/devs-in-tech/join-the-community/issues/).
+> 1. Go to the issues tab [here](https://github.com/Hackerspace2023/join-the-community/issues).
 >   
 > 2. Create a new issue.
 > 
