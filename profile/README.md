@@ -12,7 +12,7 @@
  <img height="300" src="https://user-images.githubusercontent.com/79099734/211166582-3d039c79-2b39-4243-8979-83a0e13c7dfa.png">
 -->
 
-![Hacker Space Banner](file:///C:/Users/HP/Downloads/hckspc.png)
+![Hacker Space Banner](hacker_space_banner.png)
 
 Welcome to **Hacker Space** where anyone interested in contributing and adding values to the Open Source repos and coding can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
  
