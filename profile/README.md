@@ -27,7 +27,7 @@ Welcome to **Hacker Space** where anyone interested in contributing and adding v
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a> -->
 <!--   for discord button -->
-  <a href="https://discord.gg/TAXR264Z" style="text-decoration:none">
+  <a href="https://discord.gg/XXym4wjuG2" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <!--   for website button -->
